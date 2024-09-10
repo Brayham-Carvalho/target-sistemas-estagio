@@ -1,6 +1,6 @@
 # Teste Técnico - Estágio Target Sistemas
 
-Este projeto contém as soluções para o teste técnico do processo seletivo de estágio da Target Sistemas, desenvolvido em TypeScript.
+Este projeto contém as soluções para o teste técnico do processo seletivo de Estágio Análise e Desenvolvimento, desenvolvido em TypeScript.
 
 ## Estrutura do Projeto
 
