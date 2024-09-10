@@ -15,7 +15,7 @@ interface FaturamentoStats {
   mediaFaturamento: number;
 }
 
-// Classe que processa o faturamento
+// Classe que faz o processamento do faturamento
 class FaturamentoProcessor {
   private filePath: string;
 
