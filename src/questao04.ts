@@ -3,7 +3,7 @@ interface FaturamentoEstados {
   [estado: string]: number;
 }
 
-// Classe que realiza o cálculo de percentuais de faturamento por estado
+// Classe que calcula os percentuais de faturamento por estado
 class CalculadoraFaturamento {
   private faturamento: FaturamentoEstados;
 
