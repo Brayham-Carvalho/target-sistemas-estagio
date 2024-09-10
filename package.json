@@ -1,0 +1,17 @@
+{
+  "name": "questoes-estagio",
+  "version": "1.0.0",
+  "description": "questoes selecao de estagio",
+  "main": "n",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node ./src/index.ts"
+  },
+  "author": "Brayham-Carvalho",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^22.5.4",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.2"
+  }
+}
