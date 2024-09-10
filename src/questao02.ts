@@ -14,7 +14,7 @@ function pertenceFibonacci(numero: number): boolean {
   return a === numero;
 }
 
-// Simulando a entrada do usuário no Node.js
+// Simulando a entrada do usuário no Nodejs
 const readline = require("readline").createInterface({
   input: process.stdin,
   output: process.stdout,
