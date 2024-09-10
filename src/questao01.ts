@@ -1,4 +1,4 @@
-/* Declara as variáveis usadas na soma */
+/* Declara as variáveis usadas na soma*/
 let INDICE: number = 13;
 let SOMA: number = 0;
 let K: number = 0;
