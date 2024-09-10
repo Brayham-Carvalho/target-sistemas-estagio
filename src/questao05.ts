@@ -16,7 +16,7 @@ function inverterPalavra(palavra: string): string {
   return palavraInvertida;
 }
 
-// Simulando a entrada do usuário no Node.js
+// Simulando a entrada do usuário no Nodejs
 const readline1 = require("readline").createInterface({
   input: process.stdin,
   output: process.stdout,
