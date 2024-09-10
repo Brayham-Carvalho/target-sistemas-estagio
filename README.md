@@ -8,6 +8,7 @@ O projeto está organizado da seguinte forma:
 
 ```
 src/
+  ├── data
   ├── questao01.ts
   ├── questao02.ts
   ├── questao03.ts
