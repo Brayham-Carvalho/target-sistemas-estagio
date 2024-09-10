@@ -8,11 +8,11 @@ O projeto está organizado da seguinte forma:
 
 ```
 src/
-  ├── questao1.ts
-  ├── questao2.ts
-  ├── questao3.ts
-  ├── questao4.ts
-  └── questao5.ts
+  ├── questao01.ts
+  ├── questao02.ts
+  ├── questao03.ts
+  ├── questao04.ts
+  └── questao05.ts
 ```
 
 Cada arquivo na pasta `src` corresponde a uma questão do teste.
@@ -53,13 +53,13 @@ Para executar cada questão individualmente, use o seguinte comando:
 npx ts-node src/questaoX.ts
 ```
 
-Substitua `X` pelo número da questão que deseja executar (1, 2, 3, 4 ou 5).
+Substitua `X` pelo número da questão que deseja executar (01, 02, 03, 04 ou 05).
 
 ### Exemplo:
 
 Para executar a solução da questão 1:
 ```
-npx ts-node src/questao1.ts
+npx ts-node src/questao01.ts
 ```
 ## Alternativa:
 Se você tiver o TypeScript instalado globalmente, também pode compilar e rodar o arquivo da seguinte maneira:
